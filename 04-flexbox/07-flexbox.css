@@ -56,11 +56,12 @@
 /* Flex Container 6 */
 .flex-container-6 {
   height: 300px;
+
   flex-flow: column wrap;
 }
 
 .flex-container-6 .flex-item {
-  width: 400px;
+  width: 200px;
 }
 
 /* use height: 300px; on the container */
