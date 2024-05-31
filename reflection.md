@@ -129,3 +129,45 @@ For this exercise I believe all are explained properly.
    topic a little better?
 
 Not really.
+
+# Javascript notebook solutions
+
+1. Were you able to complete the exercises on your own or did you use the
+   videos or the solutions for help?
+
+I used videoes for the solutions and it is informative.
+
+2. How helpful did you find the exercises in this section? Was there one
+   exercise that was particularly helpful?
+
+All exercise were helpful to understand Javascript.
+
+3. Was there something that you wish had been explained better?
+
+For this exercise I believe all are explained properly.
+
+4. Were there other exercises that might have helped you learn this week’s
+   topic a little better?
+
+Javascript format and object exercise.
+
+# Jquery notebook solutions
+
+1. Were you able to complete the exercises on your own or did you use the
+   videos or the solutions for help?
+
+I used videoes for the solutions and it is informative.
+
+2. How helpful did you find the exercises in this section? Was there one
+   exercise that was particularly helpful?
+
+All exercise were helpful to understand Jquery.I was little confused about first dom exercise.But after checking the video it got cleared..
+
+3. Was there something that you wish had been explained better?
+
+For this exercise I believe all are explained properly.
+
+4. Were there other exercises that might have helped you learn this week’s
+   topic a little better?
+
+Nothing specific

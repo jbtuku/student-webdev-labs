@@ -4,7 +4,7 @@ const app = document.querySelector("#books");
 
 const addBookToDOM = (book) => {
   let element = document.createElement("div");
-  let title = document.createElement("h3");
+  let title = document.createElement("h1");
   let author = document.createElement("p");
   let released = document.createElement("p");
   let pages = document.createElement("p");
@@ -18,6 +18,11 @@ const addBookToDOM = (book) => {
   element.append(author);
   element.append(released);
   element.append(pages);
+
+  element.style.display = "flex";
+  element.style.flexDirection = "column";
+  element.style.alignItems = "center";
+  element.style.marginTop = "20px";
 
   app.append(element);
 };
