@@ -52,19 +52,19 @@ Not really.
 
 Few part I completed by my own.For position and media query exercise I took help from lab video.It was really helpful to understand different positioning and how to setup margin and padding specially.
 
-1. How helpful did you find the exercises in this section? Was there one
+2. How helpful did you find the exercises in this section? Was there one
    exercise that was particularly helpful?
 
-- All exercise were helpful to understand CSS basics and layout.
+All exercise were helpful to understand CSS basics and layout.
 
 3. Was there something that you wish had been explained better?
 
-- For this exercise I believe all are explained properly.
+For this exercise I believe all are explained properly.
 
 4. Were there other exercises that might have helped you learn this week’s
    topic a little better?
 
-- Not really.
+Not really.
 
 # Flexbox solutions
 
@@ -114,7 +114,7 @@ Flex Exercise.
 1. Were you able to complete the exercises on your own or did you use the
    videos or the solutions for help?
 
-Yes I completed by my own.
+Yes I completed by my own but i checked all the videos so that I can clear my confusion.
 
 2. How helpful did you find the exercises in this section? Was there one
    exercise that was particularly helpful?
@@ -144,7 +144,7 @@ All exercise were helpful to understand Javascript.
 
 3. Was there something that you wish had been explained better?
 
-For this exercise I believe all are explained properly.
+For this exercise I believe all are explained properly but if functions part can be describe more clear way it will be helpful.Some parts I found little bit confusing.
 
 4. Were there other exercises that might have helped you learn this week’s
    topic a little better?
@@ -161,7 +161,7 @@ I used videoes for the solutions and it is informative.
 2. How helpful did you find the exercises in this section? Was there one
    exercise that was particularly helpful?
 
-All exercise were helpful to understand Jquery.I was little confused about first dom exercise.But after checking the video it got cleared..
+All exercise were helpful to understand Jquery.I was little confused about first dom exercise.But after checking the video it got cleared.
 
 3. Was there something that you wish had been explained better?
 
