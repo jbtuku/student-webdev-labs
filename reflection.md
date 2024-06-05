@@ -167,7 +167,7 @@ All exercise were helpful to understand Jquery.I was little confused about first
 
 I beleive fetch exercise can be explained little bit in detail so that it can be easily understandable.
 
-1. Were there other exercises that might have helped you learn this week’s
+4. Were there other exercises that might have helped you learn this week’s
    topic a little better?
 
 Nothing specific
