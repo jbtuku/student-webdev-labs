@@ -146,7 +146,7 @@ All exercise were helpful to understand Javascript.
 
 For this exercise I believe all are explained properly althought callback functions and fetch part can be describe more clear way it will be helpful.Some parts I found little bit confusing.
 
-1. Were there other exercises that might have helped you learn this week’s
+4. Were there other exercises that might have helped you learn this week’s
    topic a little better?
 
 Javascript format and object exercise.
