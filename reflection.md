@@ -144,9 +144,9 @@ All exercise were helpful to understand Javascript.
 
 3. Was there something that you wish had been explained better?
 
-For this exercise I believe all are explained properly but if functions part can be describe more clear way it will be helpful.Some parts I found little bit confusing.
+For this exercise I believe all are explained properly althought callback functions and fetch part can be describe more clear way it will be helpful.Some parts I found little bit confusing.
 
-4. Were there other exercises that might have helped you learn this week’s
+1. Were there other exercises that might have helped you learn this week’s
    topic a little better?
 
 Javascript format and object exercise.
@@ -165,9 +165,9 @@ All exercise were helpful to understand Jquery.I was little confused about first
 
 3. Was there something that you wish had been explained better?
 
-For this exercise I believe all are explained properly.
+I beleive fetch exercise can be explained little bit in detail so that it can be easily understandable.
 
-4. Were there other exercises that might have helped you learn this week’s
+1. Were there other exercises that might have helped you learn this week’s
    topic a little better?
 
 Nothing specific

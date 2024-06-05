@@ -4,12 +4,12 @@ const replaceItems = (input) => {
   // for reference, see the MDN "Regular Expressions" entry:
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
-  input = input.replace(/gold/gi, "SHINY");
-  input = input.replace(/wander/gi, "roam");
-  return input;
+  const a = input.replace(/gold/gi, "SHINY");
+  const b = input.replace(/wander/gi, "roam");
+  return a,b;
 };
 
-console.log(replaceItems("All that is gold does not glitter"));
+console.log(("All that is gold does not glitter"));
 // expected: 'All that is SHINY does not glitter'
 console.log(replaceItems("Wisdom is better than silver or GOLD."));
 // expected: 'Wisdom is better than silver or SHINY.'
